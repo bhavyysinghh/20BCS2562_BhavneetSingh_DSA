@@ -32,6 +32,6 @@ int main()
 
     cout<<"missing value is: "<<result;
 
-    return 0;76'90027
+    return 0;
     
 }
